@@ -7,4 +7,4 @@ Given RBC Images we classify the cells as wether the malaria is infected or not 
 
 Frameworks:-
 
-This project uses pytorch a dep learning framework by facebook AI.
+This project uses pytorch a dep learning framework by facebook AI research. 
